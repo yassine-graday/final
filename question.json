@@ -1,0 +1,1209 @@
+[
+{
+    "model": "test.question",
+    "pk": 7,
+    "fields": {
+        "name": "DESSINER OU PEINDRE",
+        "params": [
+            1,
+            2,
+            6,
+            10,
+            12,
+            15,
+            17
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 8,
+    "fields": {
+        "name": "JOUER AUX ÉCHECS",
+        "params": [
+            1,
+            5,
+            6,
+            8,
+            9,
+            10,
+            12,
+            16,
+            18
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 9,
+    "fields": {
+        "name": "MONTER UN PUZZLE",
+        "params": [
+            1,
+            2,
+            3,
+            4,
+            8,
+            9,
+            12,
+            17,
+            18
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 10,
+    "fields": {
+        "name": "TONDRE UNE PELOUSE",
+        "params": [
+            1,
+            2,
+            6,
+            10,
+            12,
+            15,
+            17
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 11,
+    "fields": {
+        "name": "AIDER LES AUTRES",
+        "params": [
+            3,
+            4,
+            6,
+            7,
+            8,
+            11,
+            14,
+            15,
+            16
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 12,
+    "fields": {
+        "name": "DIRIGER UN GROUPE",
+        "params": [
+            1,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 13,
+    "fields": {
+        "name": "JOUER UN INSTRUMENT",
+        "params": [
+            2,
+            4,
+            6,
+            9,
+            10,
+            12,
+            17,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 14,
+    "fields": {
+        "name": "PENSER CRITIQUE",
+        "params": [
+            1,
+            5,
+            6,
+            7,
+            8,
+            9,
+            14,
+            16,
+            18,
+            19
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 15,
+    "fields": {
+        "name": "ACTION HUMANITAIRE",
+        "params": [
+            1,
+            3,
+            4,
+            7,
+            9,
+            11,
+            16,
+            17
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 16,
+    "fields": {
+        "name": "LIRE UN OUVRAGE SCIENTIFIQUE",
+        "params": [
+            1,
+            5,
+            7,
+            8,
+            9,
+            12,
+            13,
+            16,
+            18
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 17,
+    "fields": {
+        "name": "LISTER MES COURSES",
+        "params": [
+            1,
+            6,
+            12,
+            15,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 18,
+    "fields": {
+        "name": "JEU DE RÔLE",
+        "params": [
+            2,
+            4,
+            6,
+            9,
+            10,
+            11,
+            14,
+            16,
+            17,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 19,
+    "fields": {
+        "name": "RÉPARER UN OBJET",
+        "params": [
+            1,
+            2,
+            6,
+            10,
+            12,
+            13,
+            14,
+            17
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 20,
+    "fields": {
+        "name": "LIRE UN ROMAN",
+        "params": [
+            1,
+            2,
+            4,
+            9,
+            14,
+            17,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 21,
+    "fields": {
+        "name": "SUIVRE VOS DEPENSES",
+        "params": [
+            1,
+            3,
+            6,
+            9,
+            11,
+            15,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 22,
+    "fields": {
+        "name": "VOUS DÉPENSER PHYSIQUEMENT",
+        "params": [
+            1,
+            6,
+            7,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 23,
+    "fields": {
+        "name": "ORGANIZER VOTRE SEMAINE",
+        "params": [
+            1,
+            3,
+            6,
+            7,
+            9,
+            11,
+            13,
+            14,
+            15,
+            16,
+            18
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 24,
+    "fields": {
+        "name": "AUTOFORMATION",
+        "params": [
+            1,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            12,
+            13,
+            14,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 25,
+    "fields": {
+        "name": "MENER UNE ENQUÊTE",
+        "params": [
+            1,
+            2,
+            5,
+            6,
+            7,
+            8,
+            15,
+            16,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 26,
+    "fields": {
+        "name": "IMAGINER UN FILM",
+        "params": [
+            2,
+            4,
+            5,
+            10,
+            12,
+            13,
+            14,
+            17
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 27,
+    "fields": {
+        "name": "CONVAINCRE LES AUTRES",
+        "params": [
+            1,
+            3,
+            4,
+            9,
+            10,
+            11,
+            15,
+            16,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 28,
+    "fields": {
+        "name": "ECHANGER EN GROUPE",
+        "params": [
+            3,
+            4,
+            6,
+            8,
+            10,
+            11,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 29,
+    "fields": {
+        "name": "CONDUIRE UN CAMION",
+        "params": [
+            1,
+            3,
+            6,
+            13,
+            15,
+            16,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 30,
+    "fields": {
+        "name": "JEU DE RÉFLEXION",
+        "params": [
+            1,
+            2,
+            3,
+            6,
+            8,
+            10,
+            12,
+            13,
+            16
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 31,
+    "fields": {
+        "name": "LIRE UN ARTICLE",
+        "params": [
+            1,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 32,
+    "fields": {
+        "name": "AIDER AU DÉMÉNAGEMENT",
+        "params": [
+            1,
+            4,
+            6,
+            10,
+            11,
+            13,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 33,
+    "fields": {
+        "name": "RELEVER UN DÉFI",
+        "params": [
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 34,
+    "fields": {
+        "name": "EXPLIQUER UN MYSTÈRE!",
+        "params": [
+            1,
+            2,
+            5,
+            7,
+            8,
+            9,
+            16,
+            17,
+            18,
+            19
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 35,
+    "fields": {
+        "name": "MONTER UN LEGO",
+        "params": [
+            1,
+            2,
+            6,
+            8,
+            9,
+            10,
+            11,
+            14,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 36,
+    "fields": {
+        "name": "NÉGOCIER LE PRIX",
+        "params": [
+            2,
+            3,
+            4,
+            11,
+            12,
+            13,
+            15,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 37,
+    "fields": {
+        "name": "PRÉVOIR VOS TÂCHES",
+        "params": [
+            1,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 38,
+    "fields": {
+        "name": "LANCER DES IDÉES",
+        "params": [
+            2,
+            3,
+            4,
+            7,
+            8,
+            10,
+            11,
+            12,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 39,
+    "fields": {
+        "name": "PRENDRE DES RISQUES",
+        "params": [
+            1,
+            3,
+            6,
+            7,
+            8,
+            10,
+            12,
+            13,
+            14,
+            16,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 40,
+    "fields": {
+        "name": "ADHÉRER À UNE ASSOCIATION",
+        "params": [
+            3,
+            4,
+            6,
+            7,
+            10,
+            14,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 41,
+    "fields": {
+        "name": "GÉRER VOTRE BUDGET",
+        "params": [
+            1,
+            3,
+            6,
+            8,
+            10,
+            11,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 42,
+    "fields": {
+        "name": "RÉPARER UN OBJET",
+        "params": [
+            3,
+            5,
+            6,
+            8,
+            10,
+            12,
+            13,
+            15,
+            18
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 43,
+    "fields": {
+        "name": "DÉVELOPPER VOTRE RÉSEAU",
+        "params": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 44,
+    "fields": {
+        "name": "PRENDRE DES DÉCISIONS",
+        "params": [
+            1,
+            2,
+            3,
+            7,
+            8,
+            9,
+            10,
+            14,
+            16,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 45,
+    "fields": {
+        "name": "PERSONNALISER VOTRE CHAMBRE",
+        "params": [
+            1,
+            2,
+            6,
+            9,
+            12,
+            15,
+            16,
+            17,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 46,
+    "fields": {
+        "name": "LANCER UN PROJET",
+        "params": [
+            1,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 47,
+    "fields": {
+        "name": "ORGANISER VOTRE VOYAGE",
+        "params": [
+            2,
+            3,
+            4,
+            6,
+            10,
+            13,
+            14,
+            15,
+            17,
+            19
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 48,
+    "fields": {
+        "name": "RÉPARER UNE VOITURE",
+        "params": [
+            1,
+            5,
+            6,
+            8,
+            9,
+            10,
+            12,
+            13,
+            15,
+            16,
+            19
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 49,
+    "fields": {
+        "name": "RASSEMBLER UN APPAREIL",
+        "params": [
+            1,
+            5,
+            6,
+            8,
+            9,
+            12,
+            13,
+            15
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 50,
+    "fields": {
+        "name": "RÉCONFORTER UN PROCHE",
+        "params": [
+            2,
+            4,
+            7,
+            11,
+            15,
+            16
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 51,
+    "fields": {
+        "name": "LISTER VOS COURSES",
+        "params": [
+            1,
+            6,
+            10,
+            15,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 52,
+    "fields": {
+        "name": "RÉNOVER VOTRE MAISON",
+        "params": [
+            2,
+            3,
+            6,
+            8,
+            10,
+            11,
+            12,
+            13,
+            15,
+            17,
+            18,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 53,
+    "fields": {
+        "name": "PARTICIPER AUX COMPÉTIONS",
+        "params": [
+            1,
+            3,
+            4,
+            6,
+            7,
+            8,
+            9,
+            11,
+            14,
+            16,
+            17,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 54,
+    "fields": {
+        "name": "S'HABILLER DIFFÉREMMENT",
+        "params": [
+            2,
+            3,
+            4,
+            8,
+            10,
+            11,
+            15,
+            17,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 55,
+    "fields": {
+        "name": "PRÉSENTER UN EXPOSÉ",
+        "params": [
+            1,
+            2,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            15,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 56,
+    "fields": {
+        "name": "COLLECTIONNER DES OBJETS",
+        "params": [
+            3,
+            4,
+            6,
+            8,
+            10,
+            12,
+            13,
+            17,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 57,
+    "fields": {
+        "name": "S'INFORMER SUR INTERNET",
+        "params": [
+            1,
+            2,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            12,
+            14,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 58,
+    "fields": {
+        "name": "ENSEIGNER UN ÉLÈVE",
+        "params": [
+            1,
+            4,
+            6,
+            7,
+            8,
+            9,
+            11,
+            15,
+            16,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 59,
+    "fields": {
+        "name": "ORGANISER VOS AFFAIRES",
+        "params": [
+            1,
+            3,
+            6,
+            7,
+            8,
+            12,
+            13,
+            14,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 60,
+    "fields": {
+        "name": "CONVAINCRE LES AUTRES",
+        "params": [
+            2,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            11,
+            12,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 61,
+    "fields": {
+        "name": "ACTIVITÉ PHYSIQUE",
+        "params": [
+            1,
+            6,
+            7,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 62,
+    "fields": {
+        "name": "LIBÉRER VOTRE IMAGINATION",
+        "params": [
+            2,
+            5,
+            8,
+            10,
+            11,
+            12,
+            15,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 63,
+    "fields": {
+        "name": "SOIGNER UNE PERSONNE",
+        "params": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            17
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 64,
+    "fields": {
+        "name": "STRUCTURER VOTRE PLANNING",
+        "params": [
+            1,
+            3,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 65,
+    "fields": {
+        "name": "CRÉATION ARTISTIQUE",
+        "params": [
+            2,
+            4,
+            5,
+            9,
+            12,
+            14,
+            15,
+            17,
+            19,
+            20
+        ]
+    }
+},
+{
+    "model": "test.question",
+    "pk": 66,
+    "fields": {
+        "name": "RELANCER UNE DISCUSSION",
+        "params": [
+            3,
+            4,
+            6,
+            9,
+            11,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20
+        ]
+    }
+}
+]

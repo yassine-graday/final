@@ -1,0 +1,36 @@
+version: '2'
+
+services:
+  virtual_host:
+    image: jwilder/nginx-proxy
+    container_name: nginx_proxy
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /etc/nginx/certs
+      - /etc/nginx/vhost.d
+      - /usr/share/nginx/html
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+      - ./nginx_custom.conf:/etc/nginx/conf.d/nginx_custom.conf:rw
+    networks:
+      - apps
+
+  letsencrypt:
+    image: jrcs/letsencrypt-nginx-proxy-companion
+    container_name: cert
+    depends_on: 
+      - virtual_host
+    restart: always
+    environment:
+      - DEFAULT_EMAIL="drop.0.mine@gmail.com"
+    volumes_from:
+      - virtual_host:rw
+    volumes:
+      - /etc/acme.sh
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    networks:
+      - apps
+networks:
+  apps:

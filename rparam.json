@@ -1,0 +1,142 @@
+[
+{
+    "model": "test.resultparam",
+    "pk": 1,
+    "fields": {
+        "name": "METHODIQUE"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 2,
+    "fields": {
+        "name": "CREATIF"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 3,
+    "fields": {
+        "name": "ENTREPRENANT"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 4,
+    "fields": {
+        "name": "SOCIAL"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 5,
+    "fields": {
+        "name": "INVESTIGATEUR"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 6,
+    "fields": {
+        "name": "PRATIQUE"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 7,
+    "fields": {
+        "name": "A"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 8,
+    "fields": {
+        "name": "B"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 9,
+    "fields": {
+        "name": "C"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 10,
+    "fields": {
+        "name": "D"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 11,
+    "fields": {
+        "name": "E"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 12,
+    "fields": {
+        "name": "F"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 13,
+    "fields": {
+        "name": "G"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 14,
+    "fields": {
+        "name": "H"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 15,
+    "fields": {
+        "name": "I"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 16,
+    "fields": {
+        "name": "J"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 17,
+    "fields": {
+        "name": "K"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 18,
+    "fields": {
+        "name": "L"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 19,
+    "fields": {
+        "name": "M"
+    }
+},
+{
+    "model": "test.resultparam",
+    "pk": 20,
+    "fields": {
+        "name": "N"
+    }
+}
+]
